@@ -1,0 +1,69 @@
+[26-Dec-2016 09:44:37 America/Chicago] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'canwall'@'localhost' (using password: NO) in /home2/canwall/public_html/jeffreysfriend/db/list.php on line 95
+[26-Dec-2016 09:44:37 America/Chicago] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/canwall/public_html/jeffreysfriend/db/list.php on line 95
+[26-Dec-2016 09:44:37 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/canwall/public_html/jeffreysfriend/db/list.php on line 96
+[26-Dec-2016 10:27:31 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home2/canwall/public_html/jeffreysfriend/db/db.php on line 5
+[26-Dec-2016 10:49:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/canwall/public_html/jeffreysfriend/db/list.php:3) in /home2/canwall/public_html/jeffreysfriend/db/list.php on line 4
+[26-Dec-2016 10:49:22 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/canwall/public_html/jeffreysfriend/db/list.php:3) in /home2/canwall/public_html/jeffreysfriend/db/list.php on line 5
+[26-Dec-2016 23:44:55 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/canwall/public_html/jeffreysfriend/db/tonew.php on line 80
+[26-Dec-2016 23:59:03 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/canwall/public_html/jeffreysfriend/db/tonew.php on line 86
+[27-Dec-2016 00:02:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/canwall/public_html/jeffreysfriend/db/tonew.php on line 90
+[27-Dec-2016 00:08:18 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home2/canwall/public_html/jeffreysfriend/db/tonew.php on line 86
+[27-Dec-2016 00:14:46 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/canwall/public_html/jeffreysfriend/db/tonew.php on line 88
+[27-Dec-2016 00:15:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/canwall/public_html/jeffreysfriend/db/tonew.php on line 90
+[27-Dec-2016 00:43:36 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home2/canwall/public_html/jeffreysfriend/db/todelete.php on line 101
+[29-Dec-2016 01:18:21 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home2/canwall/public_html/jeffreysfriend/db/tocheck.php on line 110
+[29-Dec-2016 01:20:43 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home2/canwall/public_html/jeffreysfriend/db/tocheck.php on line 108
+[29-Dec-2016 01:21:25 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home2/canwall/public_html/jeffreysfriend/db/tocheck.php on line 108
+[29-Dec-2016 01:27:48 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home2/canwall/public_html/jeffreysfriend/db/tocheck.php on line 108
+[29-Dec-2016 02:39:48 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home2/canwall/public_html/jeffreysfriend/db/tocheck.php on line 108
+[29-Dec-2016 03:42:26 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/canwall/public_html/jeffreysfriend/db/postBrk.php on line 80
+[29-Dec-2016 03:58:31 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/canwall/public_html/jeffreysfriend/db/find.php on line 120
+[29-Dec-2016 04:32:20 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home2/canwall/public_html/jeffreysfriend/db/postBrk.php on line 85
+[29-Dec-2016 04:32:50 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/canwall/public_html/jeffreysfriend/db/postBrk.php on line 85
+[29-Dec-2016 04:33:29 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/canwall/public_html/jeffreysfriend/db/postBrk.php on line 85
+[29-Dec-2016 04:42:00 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/canwall/public_html/jeffreysfriend/db/postBrk.php on line 85
+[29-Dec-2016 04:42:27 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/canwall/public_html/jeffreysfriend/db/postBrk.php on line 88
+[29-Dec-2016 04:47:14 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/canwall/public_html/jeffreysfriend/db/postBrk.php on line 85
+[29-Dec-2016 05:01:56 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/canwall/public_html/jeffreysfriend/db/postBrk.php on line 85
+[29-Dec-2016 05:02:07 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/canwall/public_html/jeffreysfriend/db/postBrk.php on line 85
+[29-Dec-2016 05:08:14 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/canwall/public_html/jeffreysfriend/db/postBrk.php on line 87
+[29-Dec-2016 07:17:24 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/canwall/public_html/jeffreysfriend/db/tocheck.php on line 98
+[29-Dec-2016 07:17:50 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/canwall/public_html/jeffreysfriend/db/tocheck.php on line 98
+[29-Dec-2016 08:15:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/canwall/public_html/jeffreysfriend/db/find.php on line 118
+[29-Dec-2016 08:40:35 America/Chicago] PHP Parse error:  syntax error, unexpected '!' in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 102
+[29-Dec-2016 08:42:45 America/Chicago] PHP Parse error:  syntax error, unexpected '!' in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 102
+[29-Dec-2016 08:43:37 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 104
+[29-Dec-2016 08:48:12 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 107
+[29-Dec-2016 08:48:12 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home2/canwall/public_html/jeffreysfriend/db/approvalBrk.php on line 78
+[29-Dec-2016 08:50:11 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home2/canwall/public_html/jeffreysfriend/db/approvalBrk.php on line 78
+[29-Dec-2016 08:50:39 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home2/canwall/public_html/jeffreysfriend/db/approvalBrk.php on line 82
+[29-Dec-2016 08:51:45 America/Chicago] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'canwall'@'localhost' (using password: NO) in /home2/canwall/public_html/jeffreysfriend/db/approvalBrk.php on line 79
+[29-Dec-2016 08:51:45 America/Chicago] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/canwall/public_html/jeffreysfriend/db/approvalBrk.php on line 79
+[29-Dec-2016 08:51:45 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/canwall/public_html/jeffreysfriend/db/approvalBrk.php on line 82
+[29-Dec-2016 09:06:38 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 108
+[29-Dec-2016 09:07:52 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 108
+[29-Dec-2016 09:13:18 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 108
+[29-Dec-2016 09:13:33 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 108
+[29-Dec-2016 09:13:47 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 108
+[29-Dec-2016 09:23:52 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 107
+[29-Dec-2016 09:24:45 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 107
+[29-Dec-2016 09:33:07 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 129
+[29-Dec-2016 09:33:56 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 131
+[29-Dec-2016 09:34:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 131
+[29-Dec-2016 09:34:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 131
+[29-Dec-2016 09:34:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 131
+[29-Dec-2016 09:37:21 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 99
+[29-Dec-2016 09:38:09 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 99
+[29-Dec-2016 09:39:03 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 99
+[29-Dec-2016 09:39:11 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 99
+[29-Dec-2016 09:51:12 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/canwall/public_html/jeffreysfriend/db/gan.php on line 134
+[29-Dec-2016 11:45:33 America/Chicago] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'canwall'@'localhost' (using password: NO) in /home2/canwall/public_html/jeffreysfriend/db/Approve.php on line 90
+[29-Dec-2016 11:45:33 America/Chicago] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/canwall/public_html/jeffreysfriend/db/Approve.php on line 90
+[29-Dec-2016 11:47:56 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home2/canwall/public_html/jeffreysfriend/db/Approve.php on line 90
+[29-Dec-2016 12:24:33 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home2/canwall/public_html/jeffreysfriend/db/insert_done.php on line 99
+[29-Dec-2016 12:24:46 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home2/canwall/public_html/jeffreysfriend/db/insert_done.php on line 99
+[29-Dec-2016 12:24:54 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home2/canwall/public_html/jeffreysfriend/db/insert_done.php on line 99
+[29-Dec-2016 12:34:02 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home2/canwall/public_html/jeffreysfriend/db/insert_done.php on line 101
+[29-Dec-2016 12:43:37 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home2/canwall/public_html/jeffreysfriend/db/insert_done.php on line 101
+[29-Dec-2016 12:43:45 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home2/canwall/public_html/jeffreysfriend/db/insert_done.php on line 101
+[29-Dec-2016 13:19:28 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home2/canwall/public_html/jeffreysfriend/db/insert_done.php on line 108
